@@ -1,5 +1,11 @@
 # Validate
 
+- Create cluster
+
+    ```sh
+    kind create cluster --config cluster.yml
+    ```
+
 - Apply all manifests with
 
     ```sh
